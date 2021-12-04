@@ -13,15 +13,10 @@ Pre-requisites
 
 - Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of Android Basics in Kotlin
 
-Getting Started
----------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade)
 
-Tips
-----
+# Here The final result for the Project
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+
+https://user-images.githubusercontent.com/92260250/144691998-c45ebabf-996a-44c0-b05e-4fe6546fc8ef.mov
+
